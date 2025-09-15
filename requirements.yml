@@ -1,2 +1,6 @@
+---
 collections:
-  - name: amazon.aws
+  - name: cloud.aws_ops 
+    source: https://cpaap1.tb.com
+  - name: infra.aap_utilities 
+    source: https://cpaap1.tb.com
