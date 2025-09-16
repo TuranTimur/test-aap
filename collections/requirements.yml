@@ -1,5 +1,5 @@
 ---
 collections:
-  - name: amazon.aws
+  - name: infra.aap_configuration
     #source: https://galaxy.ansible.com
     source: https://cpaap1.tb.com/pulp_ansible/galaxy/rh-certified/
