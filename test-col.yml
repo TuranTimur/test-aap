@@ -3,4 +3,7 @@
   hosts: all
   tasks:
     - name: Create a dummy file
+      ansible.builtin.shell:    cat /etc/ansible/ansible.cfg | grep -v '#'
+
+    - name: Create a dummy file
       ansible.builtin.shell: ansible-galaxy collection list
