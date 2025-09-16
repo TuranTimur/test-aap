@@ -1,5 +1,5 @@
 ---
 collections:
-  - name: infra.aap_configuration
+  - name: azure.azcollection
     #source: https://galaxy.ansible.com
     source: https://cpaap1.tb.com/pulp_ansible/galaxy/rh-certified/
